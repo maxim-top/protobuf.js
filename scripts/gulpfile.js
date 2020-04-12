@@ -17,8 +17,8 @@ function defineTask(name, entry, target) {
     ), function(done) { done(); });
 }
 
-defineTask("full"   , "../src/index"        , "../dist"        );
-defineTask("light"  , "../src/index-light"  , "../dist/light"  );
+defineTask("full"   , "../src/index"        , "../dist/full"        );
+defineTask("light"  , "../src/index-light"  , "../dist"  );
 defineTask("minimal", "../src/index-minimal", "../dist/minimal");
 
 gulp.task("default", gulp.parallel(

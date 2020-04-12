@@ -5,7 +5,7 @@
   "description": "Protocol Buffers for JavaScript (& TypeScript).",
   "author": "Daniel Wirtz <dcode+protobufjs@dcode.io>",
   "license": "BSD-3-Clause",
-  "repository": "protobufjs/protobuf.js",
+  "repository": "maxim-top/protobuf.js",
   "bugs": "https://github.com/dcodeIO/protobuf.js/issues",
   "homepage": "http://dcode.io/protobuf.js",
   "keywords": [
@@ -102,8 +102,8 @@
   "files": [
     "index.js",
     "index.d.ts",
-    "light.d.ts",
-    "light.js",
+    "full.d.ts",
+    "full.js",
     "minimal.d.ts",
     "minimal.js",
     "package-lock.json",

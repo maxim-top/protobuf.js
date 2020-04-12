@@ -1,4 +1,4 @@
-// full library entry point.
+// light library entry point.
 
 "use strict";
-module.exports = require("./src/index");
+module.exports = require("./src/index-light");

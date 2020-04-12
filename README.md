@@ -8,6 +8,8 @@
 Contents
 --------
 
+* NOTE: The ONLY change by MaximTop is using light version as default.
+
 * [Installation](#installation)<br />
   How to include protobuf.js in your project.
 
